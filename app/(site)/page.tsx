@@ -33,8 +33,8 @@ export default function Home() {
           mt-4"
           >
             <ListItem
-              image="/images/liked.png"
-              name="Liked songs"
+              image="/images/123.png"
+              name="Liked Guides"
               href="liked"
             />
           </div>
